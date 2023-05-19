@@ -5,15 +5,7 @@ function App() {
   return (
   <Restuarant/>
   )
-  
-  
-  
 
-
-  
-  
-
-  
 };
 
 export default App;
